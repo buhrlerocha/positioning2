@@ -1,0 +1,21 @@
+/* Inserta tu CSS aqui */
+.azul {
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+}
+
+.verde {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+.negro {
+	width: 92px;
+	height: 92px;
+	background-color: black;
+}
